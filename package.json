@@ -1,0 +1,25 @@
+{
+  "name": "aula_git",
+  "version": "1.0.0",
+  "description": "projeto aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Decastr/Aula_Git.git"
+  },
+  "keywords": [
+    "aula",
+    "node",
+    "projeto",
+    "npm"
+  ],
+  "author": "Decastr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Decastr/Aula_Git/issues"
+  },
+  "homepage": "https://github.com/Decastr/Aula_Git#readme"
+}
